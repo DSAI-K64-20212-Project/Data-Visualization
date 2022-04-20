@@ -1,0 +1,231 @@
+,NOC,region,notes,Numbering,Continental
+0,AFG,Afghanistan,,1,Asia
+1,AHO,Curacao,Netherlands Antilles,,
+2,ALB,Albania,,3,Europe
+3,ALG,Algeria,,4,Africa
+4,AND,Andorra,,6,Europe
+5,ANG,Angola,,7,Africa
+6,ANT,Antigua,Antigua and Barbuda,8,Americas
+7,ANZ,Australia,Australasia,,
+8,ARG,Argentina,,10,Americas
+9,ARM,Armenia,,11,Europe
+10,ARU,Aruba,,12,Americas
+11,ASA,American Samoa,,166,Oceania
+12,AUS,Australia,,13,Oceania
+13,AUT,Austria,,14,Europe
+14,AZE,Azerbaijan,,15,Europe
+15,BAH,Bahamas,,16,Americas
+16,BAN,Bangladesh,,18,Asia
+17,BAR,Barbados,,19,Americas
+18,BDI,Burundi,,33,Africa
+19,BEL,Belgium,,21,Europe
+20,BEN,Benin,,23,Africa
+21,BER,Bermuda,,24,Americas
+22,BHU,Bhutan,,25,Asia
+23,BIH,Bosnia and Herzegovina,,27,Europe
+24,BIZ,Belize,,22,Americas
+25,BLR,Belarus,,20,Europe
+26,BOH,Czech Republic,Bohemia,,
+27,BOL,Boliva,,26,Americas
+28,BOT,Botswana,,28,Africa
+29,BRA,Brazil,,29,Americas
+30,BRN,Bahrain,,17,Asia
+31,BRU,Brunei,,30,Asia
+32,BUL,Bulgaria,,31,Europe
+33,BUR,Burkina Faso,,32,Africa
+34,CAF,Central African Republic,,39,Africa
+35,CAM,Cambodia,,35,Asia
+36,CAN,Canada,,37,Americas
+37,CAY,Cayman Islands,,34,Americas
+38,CGO,Republic of Congo,,45,Africa
+39,CHA,Chad,,186,Africa
+40,CHI,Chile,,40,Americas
+41,CHN,China,,41,Asia
+42,CIV,Ivory Coast,,50,Africa
+43,CMR,Cameroon,,36,Africa
+44,COD,Democratic Republic of the Congo,,46,Africa
+45,COK,Cook Islands,,47,Oceania
+46,COL,Colombia,,43,Americas
+47,COM,Comoros,,44,Africa
+48,CPV,Cape Verde,,38,Africa
+49,CRC,Costa Rica,,49,Americas
+50,CRO,Croatia,,51,Europe
+51,CRT,Greece,Crete,,
+52,CUB,Cuba,,52,Americas
+53,CYP,Cyprus,,42,Europe
+54,CZE,Czech Republic,,187,Europe
+55,DEN,Denmark,,53,Europe
+56,DJI,Djibouti,,54,Africa
+57,DMA,Dominica,,56,Americas
+58,DOM,Dominican Republic,,55,Americas
+59,ECU,Ecuador,,60,Americas
+60,EGY,Egypt,,57,Africa
+61,ERI,Eritrea,,61,Africa
+62,ESA,El Salvador,,58,Americas
+63,ESP,Spain,,62,Europe
+64,EST,Estonia,,63,Europe
+65,ETH,Ethiopia,,66,Africa
+66,EUN,Russia,,,
+67,FIJ,Fiji,,67,Oceania
+68,FIN,Finland,,68,Europe
+69,FRA,France,,69,Europe
+70,FRG,Germany,,,
+71,FSM,Micronesia,,125,Oceania
+72,GAB,Gabon,,70,Africa
+73,GAM,Gambia,,71,Africa
+74,GBR,UK,,74,Europe
+75,GBS,Guinea-Bissau,,80,Africa
+76,GDR,Germany,,,
+77,GEO,Georgia,,72,Europe
+78,GEQ,Equatorial Guinea,,81,Africa
+79,GER,Germany,,5,Europe
+80,GHA,Ghana,,73,Africa
+81,GRE,Greece,,75,Europe
+82,GRN,Grenada,,76,Americas
+83,GUA,Guatemala,,78,Americas
+84,GUI,Guinea,,79,Africa
+85,GUM,Guam,,77,Oceania
+86,GUY,Guyana,,82,Americas
+87,HAI,Haiti,,83,Americas
+88,HKG,China,Hong Kong,85,Asia
+89,HON,Honduras,,84,Americas
+90,HUN,Hungary,,86,Europe
+91,INA,Indonesia,,88,Asia
+92,IND,India,,87,Asia
+93,IOA,Individual Olympic Athletes,Individual Olympic Athletes,207,N/A
+94,IRI,Iran,,89,Asia
+95,IRL,Ireland,,91,Europe
+96,IRQ,Iraq,,90,Asia
+97,ISL,Iceland,,92,Europe
+98,ISR,Israel,,93,Europe
+99,ISV,"Virgin Islands, US",Virgin Islands,202,Americas
+100,ITA,Italy,,94,Europe
+101,IVB,"Virgin Islands, British",,201,Americas
+102,JAM,Jamaica,,95,Americas
+103,JOR,Jordan,,97,Asia
+104,JPN,Japan,,96,Asia
+105,KAZ,Kazakhstan,,98,Asia
+106,KEN,Kenya,,99,Africa
+107,KGZ,Kyrgyzstan,,100,Asia
+108,KIR,Kiribati,,101,Oceania
+109,KOR,South Korea,,48,Asia
+110,KOS,Kosovo,,102,Europe
+111,KSA,Saudi Arabia,,9,Asia
+112,KUW,Kuwait,,103,Asia
+113,LAO,Laos,,104,Asia
+114,LAT,Latvia,,106,Europe
+115,LBA,Libya,,109,Africa
+116,LBR,Liberia,,108,Africa
+117,LCA,Saint Lucia,,161,Americas
+118,LES,Lesotho,,105,Africa
+119,LIB,Lebanon,,,
+120,LIE,Liechtenstein,,110,Europe
+121,LTU,Lithuania,,111,Europe
+122,LUX,Luxembourg,,112,Europe
+123,MAD,Madagascar,,114,Africa
+124,MAL,Malaysia,,,
+125,MAR,Morocco,,120,Africa
+126,MAS,Malaysia,,115,Asia
+127,MAW,Malawi,,116,Africa
+128,MDA,Moldova,,126,Europe
+129,MDV,Maldives,,117,Asia
+130,MEX,Mexico,,124,Americas
+131,MGL,Mongolia,,128,Asia
+132,MHL,Marshall Islands,,121,Oceania
+133,MKD,Macedonia,,113,Europe
+134,MLI,Mali,,118,Africa
+135,MLT,Malta,,119,Europe
+136,MNE,Montenegro,,129,Europe
+137,MON,Monaco,,127,Europe
+138,MOZ,Mozambique,,130,Africa
+139,MRI,Mauritius,,122,Africa
+140,MTN,Mauritania,,123,Africa
+141,MYA,Myanmar,,131,Asia
+142,NAM,Namibia,,132,Africa
+143,NBO,Malaysia,North Borneo,,
+144,NCA,Nicaragua,,135,Americas
+145,NED,Netherlands,,149,Europe
+146,NEP,Nepal,,134,Asia
+147,NFL,Canada,Newfoundland,,
+148,NGR,Nigeria,,137,Africa
+149,NIG,Niger,,136,Africa
+150,NOR,Norway,,138,Europe
+151,NRU,Nauru,,133,Oceania
+152,NZL,New Zealand,,139,Oceania
+153,OMA,Oman,,140,Asia
+154,PAK,Pakistan,,143,Asia
+155,PAN,Panama,,146,Americas
+156,PAR,Paraguay,,148,Americas
+157,PER,Peru,,150,Americas
+158,PHI,Philippines,,151,Asia
+159,PLE,Palestine,,145,Asia
+160,PLW,Palau,,144,Oceania
+161,PNG,Papua New Guinea,,147,Oceania
+162,POL,Poland,,152,Europe
+163,POR,Portugal,,154,Europe
+164,PRK,North Korea,,156,Asia
+165,PUR,Puerto Rico,,153,Americas
+166,QAT,Qatar,,155,Asia
+167,RHO,Zimbabwe,,,
+168,ROT,,Refugee Olympic Team,,
+169,ROU,Romania,,157,Europe
+170,RSA,South Africa,,2,Africa
+171,RUS,Russia,,158,Europe
+172,RWA,Rwanda,,159,Africa
+173,SAA,Germany,,,
+174,SAM,Samoa,,165,Oceania
+175,SCG,Serbia,Serbia and Montenegro,,
+176,SEN,Senegal,,168,Africa
+177,SEY,Seychelles,,170,Africa
+178,SIN,Singapore,,,
+179,SKN,Saint Kitts,Turks and Caicos Islands,160,Americas
+180,SLE,Sierra Leone,,171,Africa
+181,SLO,Slovenia,,174,Europe
+182,SMR,San Marino,,162,Europe
+183,SOL,Solomon Islands,,164,Oceania
+184,SOM,Somalia,,175,Africa
+185,SRB,Serbia,,169,Europe
+186,SRI,Sri Lanka,,178,Asia
+187,SSD,South Sudan,,176,Africa
+188,STP,Sao Tome and Principe,,167,Africa
+189,SUD,Sudan,,177,Africa
+190,SUI,Switzerland,,180,Europe
+191,SUR,Suriname,,181,Americas
+192,SVK,Slovakia,,173,Europe
+193,SWE,Sweden,,179,Europe
+194,SWZ,Swaziland,,64,Africa
+195,SYR,Syria,,182,Asia
+196,TAN,Tanzania,,185,Africa
+197,TCH,Czech Republic,,,
+198,TGA,Tonga,,191,Oceania
+199,THA,Thailand,,188,Asia
+200,TJK,Tajikistan,,183,Asia
+201,TKM,Turkmenistan,,194,Asia
+202,TLS,Timor-Leste,,189,Asia
+203,TOG,Togo,,190,Africa
+204,TPE,Taiwan,,184,Asia
+205,TTO,Trinidad,Trinidad and Tobago,192,Americas
+206,TUN,Tunisia,,193,Africa
+207,TUR,Turkey,,195,Europe
+208,TUV,,Tuvalu,196,Oceania
+209,UAE,United Arab Emirates,,59,Asia
+210,UAR,Syria,United Arab Republic,,
+211,UGA,Uganda,,141,Africa
+212,UKR,Ukraine,,197,Europe
+213,UNK,,Unknown,,
+214,URS,Russia,,,
+215,URU,Uruguay,,198,Americas
+216,USA,USA,,65,Americas
+217,UZB,Uzbekistan,,142,Asia
+218,VAN,Vanuatu,,199,Oceania
+219,VEN,Venezuela,,200,Americas
+220,VIE,Vietnam,,203,Asia
+221,VIN,Saint Vincent,,163,Americas
+222,VNM,Vietnam,,,
+223,WIF,Trinidad,West Indies Federation,,
+224,YAR,Yemen,North Yemen,,
+225,YEM,Yemen,,204,Asia
+226,YMD,Yemen,South Yemen,,
+227,YUG,Serbia,Yugoslavia,,
+228,ZAM,Zambia,,205,Africa
+229,ZIM,Zimbabwe,,206,Africa
