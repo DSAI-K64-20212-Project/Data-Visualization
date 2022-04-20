@@ -28,7 +28,9 @@ Which advanced problems can be inferred ?
 Which data need to be involved ?
 ### 2.1. Which continents are dominating which sport field Olympics over decades ?
 + Data involved: 
-  + (external) countries on continents, NOC groupby continents
+  + (external) countries on continents, NOC groupby continents (Remember to check integrity constraint)
+    + http://www.worldtaekwondo.org/wp-content/uploads/2020/03/20200325_MNA-Data.pdf
+    + 
   + Medals groupby NOC over Years/Decades, Medals by sports by continents by years/decades 
   + Count Atheletes per continents by sports over years/decades
   + Medals/Atheletes Ratio by continents by sports over Years/decades
