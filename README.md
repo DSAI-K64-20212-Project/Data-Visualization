@@ -30,7 +30,7 @@ Which data need to be involved ?
 + Data involved: 
   + (external) countries on continents, NOC groupby continents (Remember to check integrity constraint)
     + https://stillmed.olympics.com/media/Document%20Library/OlympicOrg/Documents/National-Olympic-Committees/List-of-National-Olympic-Committees-in-IOC-Protocol-Order.pdf
-    + 
+    + Tools: https://py-pdf-parser.readthedocs.io/en/latest/index.html
   + Medals groupby NOC over Years/Decades, Medals by sports by continents by years/decades 
   + Count Atheletes per continents by sports over years/decades
   + Medals/Atheletes Ratio by continents by sports over Years/decades
