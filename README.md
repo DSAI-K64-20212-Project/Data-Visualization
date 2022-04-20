@@ -18,7 +18,6 @@
 + 'Medal': Medal.
 ### 1.2. Overview graphs on each attributes and on whole data
 + On Sex: Vertical bars of 2 genders, and maybe over years/decades, or different plots for each year and concanate to interactive or gif (mainly to show the evolution of height/weight of atheletes over years)
-## 2. Write down questions to explore:
 + On Age: Pie chart with relative size to show the distribution of age and total number of participants over years/decades
 + On Height and Weight: Scatter plot by years/decades (could use different colors for each year/decade), or different scatter plots for each year and concanate to interactive or gif (mainly to show the evolution of height/weight of atheletes over years)
 + On NOC: Use map and if possible, maps over years/decades of participated country/region
