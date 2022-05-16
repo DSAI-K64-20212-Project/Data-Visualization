@@ -53,6 +53,7 @@ For each dominating continent on some interested sports, we take a look deeper t
 + Data involved:
   + Athletes count groupby gender by years/decades, can be encoded by sports or continents
 + Graphs to show:
+  + Numbers of athletes growth over year by gender -> Line chart contains 2 Line (male/female), Ox: year, Oy: Total athletes 
   + Can be a gif of pie chart with 2 portions of male/female, show changes over time of distribution
     + https://www.reddit.com/r/dataisbeautiful/comments/ulamcb/oc_worldwide_coffee_production/
   + Plot the difference of male - female on some sports over years
