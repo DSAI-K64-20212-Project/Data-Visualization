@@ -36,6 +36,7 @@ Which data need to be involved ?
   + Count Atheletes per continents by sports over years/decades
   + Medals/Atheletes Ratio by continents by sports over Years/decades
 + Graphs to show:
+  + Consider using Mosaic maps or tree map or nested pies  
   + Mainly interactive map, maps and mapssss with bar chart on it: Maps for summary (i.e. All-time olympic dominating country/continent)
     + https://datavizproject.com/data-type/map-bar-chart/
     + https://datavizproject.com/family/geospatial/
