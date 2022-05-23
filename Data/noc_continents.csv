@@ -6,7 +6,7 @@
 4,AND,Andorra,,6,Europe
 5,ANG,Angola,,7,Africa
 6,ANT,Antigua,Antigua and Barbuda,8,Americas
-7,ANZ,Australia,Australasia,,
+7,ANZ,Australia,Australasia,,Oceania
 8,ARG,Argentina,,10,Americas
 9,ARM,Armenia,,11,Europe
 10,ARU,Aruba,,12,Americas
@@ -25,7 +25,7 @@
 23,BIH,Bosnia and Herzegovina,,27,Europe
 24,BIZ,Belize,,22,Americas
 25,BLR,Belarus,,20,Europe
-26,BOH,Czech Republic,Bohemia,,
+26,BOH,Czech Republic,Bohemia,,Europe
 27,BOL,Boliva,,26,Americas
 28,BOT,Botswana,,28,Africa
 29,BRA,Brazil,,29,Americas
@@ -50,7 +50,7 @@
 48,CPV,Cape Verde,,38,Africa
 49,CRC,Costa Rica,,49,Americas
 50,CRO,Croatia,,51,Europe
-51,CRT,Greece,Crete,,
+51,CRT,Greece,Crete,,Europe
 52,CUB,Cuba,,52,Americas
 53,CYP,Cyprus,,42,Europe
 54,CZE,Czech Republic,,187,Europe
@@ -65,17 +65,17 @@
 63,ESP,Spain,,62,Europe
 64,EST,Estonia,,63,Europe
 65,ETH,Ethiopia,,66,Africa
-66,EUN,Russia,,,
+66,EUN,Russia,,,Europe
 67,FIJ,Fiji,,67,Oceania
 68,FIN,Finland,,68,Europe
 69,FRA,France,,69,Europe
-70,FRG,Germany,,,
+70,FRG,Germany,,,Europe
 71,FSM,Micronesia,,125,Oceania
 72,GAB,Gabon,,70,Africa
 73,GAM,Gambia,,71,Africa
 74,GBR,UK,,74,Europe
 75,GBS,Guinea-Bissau,,80,Africa
-76,GDR,Germany,,,
+76,GDR,Germany,,,Europe
 77,GEO,Georgia,,72,Europe
 78,GEQ,Equatorial Guinea,,81,Africa
 79,GER,Germany,,5,Europe
@@ -123,7 +123,7 @@
 121,LTU,Lithuania,,111,Europe
 122,LUX,Luxembourg,,112,Europe
 123,MAD,Madagascar,,114,Africa
-124,MAL,Malaysia,,,
+124,MAL,Malaysia,,,Asia
 125,MAR,Morocco,,120,Africa
 126,MAS,Malaysia,,115,Asia
 127,MAW,Malawi,,116,Africa
@@ -142,11 +142,11 @@
 140,MTN,Mauritania,,123,Africa
 141,MYA,Myanmar,,131,Asia
 142,NAM,Namibia,,132,Africa
-143,NBO,Malaysia,North Borneo,,
+143,NBO,Malaysia,North Borneo,,Asia
 144,NCA,Nicaragua,,135,Americas
 145,NED,Netherlands,,149,Europe
 146,NEP,Nepal,,134,Asia
-147,NFL,Canada,Newfoundland,,
+147,NFL,Canada,Newfoundland,,Americas
 148,NGR,Nigeria,,137,Africa
 149,NIG,Niger,,136,Africa
 150,NOR,Norway,,138,Europe
@@ -166,15 +166,15 @@
 164,PRK,North Korea,,156,Asia
 165,PUR,Puerto Rico,,153,Americas
 166,QAT,Qatar,,155,Asia
-167,RHO,Zimbabwe,,,
+167,RHO,Zimbabwe,,,Africa
 168,ROT,,Refugee Olympic Team,,
 169,ROU,Romania,,157,Europe
 170,RSA,South Africa,,2,Africa
 171,RUS,Russia,,158,Europe
 172,RWA,Rwanda,,159,Africa
-173,SAA,Germany,,,
+173,SAA,Germany,,,Europe
 174,SAM,Samoa,,165,Oceania
-175,SCG,Serbia,Serbia and Montenegro,,
+175,SCG,Serbia,Serbia and Montenegro,,Europe
 176,SEN,Senegal,,168,Africa
 177,SEY,Seychelles,,170,Africa
 178,SIN,Singapore,,,
@@ -196,7 +196,7 @@
 194,SWZ,Swaziland,,64,Africa
 195,SYR,Syria,,182,Asia
 196,TAN,Tanzania,,185,Africa
-197,TCH,Czech Republic,,,
+197,TCH,Czech Republic,,,Europe
 198,TGA,Tonga,,191,Oceania
 199,THA,Thailand,,188,Asia
 200,TJK,Tajikistan,,183,Asia
@@ -209,11 +209,11 @@
 207,TUR,Turkey,,195,Europe
 208,TUV,,Tuvalu,196,Oceania
 209,UAE,United Arab Emirates,,59,Asia
-210,UAR,Syria,United Arab Republic,,
+210,UAR,Syria,United Arab Republic,,Asia
 211,UGA,Uganda,,141,Africa
 212,UKR,Ukraine,,197,Europe
 213,UNK,,Unknown,,
-214,URS,Russia,,,
+214,URS,Russia,,,Europe
 215,URU,Uruguay,,198,Americas
 216,USA,USA,,65,Americas
 217,UZB,Uzbekistan,,142,Asia
@@ -221,11 +221,11 @@
 219,VEN,Venezuela,,200,Americas
 220,VIE,Vietnam,,203,Asia
 221,VIN,Saint Vincent,,163,Americas
-222,VNM,Vietnam,,,
-223,WIF,Trinidad,West Indies Federation,,
-224,YAR,Yemen,North Yemen,,
+222,VNM,Vietnam,,,Asia
+223,WIF,Trinidad,West Indies Federation,,Americas
+224,YAR,Yemen,North Yemen,,Asia
 225,YEM,Yemen,,204,Asia
-226,YMD,Yemen,South Yemen,,
-227,YUG,Serbia,Yugoslavia,,
+226,YMD,Yemen,South Yemen,,Asia
+227,YUG,Serbia,Yugoslavia,,Europe
 228,ZAM,Zambia,,205,Africa
 229,ZIM,Zimbabwe,,206,Africa
